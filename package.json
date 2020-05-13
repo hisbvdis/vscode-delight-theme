@@ -1,0 +1,33 @@
+{
+  "name": "vscode-delight-theme",
+  "displayName": "DeLight Theme",
+  "description": "More! More colors!",
+  "publisher": "hisbvdis",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hisbvdis/vscode-delight-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hisbvdis/vscode-delight-theme"
+  },
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "DeLight Theme",
+        "uiTheme": "vs",
+        "path": "./themes/delight-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "1c9d2eb9-4c52-4174-85fb-3bf3a1d0eee6",
+    "publisherId": "a410cbcf-f0d3-46da-9bc1-db019d82227a",
+    "publisherDisplayName": "hisbvdis"
+  }
+}
