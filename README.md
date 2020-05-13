@@ -1,4 +1,4 @@
-# Default Light Custom Theme
+# VS Code Delight Theme
 
 ## Description
 
