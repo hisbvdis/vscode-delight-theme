@@ -34,6 +34,8 @@
     },
     {
       "scope": [
+        "keyword.control.at-rule",
+        
         "storage",
         "keyword.control",
         "keyword.operator.new.js",
@@ -41,14 +43,6 @@
       ],
       "settings": {
         "foreground": "#311fff"
-      }
-    },
-    {
-      "scope": [
-        "keyword.control.at-rule"
-      ],
-      "settings": {
-        "foreground": "#0000ff"
       }
     },
     {
