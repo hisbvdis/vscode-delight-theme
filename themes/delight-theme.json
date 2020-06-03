@@ -102,7 +102,8 @@
         "entity.other.attribute-name.pseudo-element.css",
         "entity.other.attribute-name.pseudo-class.css",
         "entity.name.function.js",
-        "entity.name.type.class.js"
+        "entity.name.type.class.js",
+        "entity.other.inherited-class.js",
       ],
       "settings": {
         "foreground": "#d32323"
@@ -130,14 +131,6 @@
       ],
       "settings": {
         "foreground": "#000000"
-      }
-    },
-    {
-      "scope": [
-        "variable.language"
-      ],
-      "settings": {
-        "fontStyle": "italic"
       }
     },
     {
