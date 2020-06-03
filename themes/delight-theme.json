@@ -39,7 +39,8 @@
         "storage",
         "keyword.control",
         "keyword.operator.new.js",
-        "keyword.operator.expression"
+        "keyword.operator.expression",
+        "variable.language.super.js"
       ],
       "settings": {
         "foreground": "#311fff"
