@@ -76,6 +76,7 @@
         "variable.css",
         "variable.scss",
         "variable.other.less",
+        "meta.property-list entity.name.tag",
         
         "variable.other.property.js",
         "variable.other.object.property.js",
