@@ -37,7 +37,6 @@
         "keyword.control.at-rule",
         
         "storage",
-        "keyword.control",
         "keyword.operator.new.js",
         "keyword.operator.expression",
         "variable.language.super.js"
@@ -90,10 +89,12 @@
     },
     {
       "scope": [
+        "keyword.control",
         "keyword.control.conditional.js",
         "keyword.control.flow.js",
         "keyword.control.switch.js",
-        "keyword.control.loop.js"
+        "keyword.control.loop.js",
+        "keyword.control.export.js"
       ],
       "settings": {
         "foreground": "#00b7db"
