@@ -35,7 +35,6 @@
     {
       "scope": [
         "keyword.control.at-rule",
-        
         "storage",
         "keyword.operator.new.js",
         "keyword.operator.expression",
@@ -49,10 +48,8 @@
       "scope": [
         "entity.other.attribute-name",
         "entity.other.attribute-name.class.css",
-        "support.function.console.js",
-        "support.function.js",
-        "support.function.math.js",
-        "meta.function-call.js entity.name.function.js"
+        "meta.function-call entity.name.function.js",
+        "support.function"
       ],
       "settings": {
         "foreground": "#009900"
@@ -131,7 +128,8 @@
         "support.function.git-rebase",
         "meta.property-value variable.scss",
         "meta.property-value invalid.deprecated.color.system.css",
-        "variable.parameter"
+        "variable.parameter",
+        "source.css support.function"
       ],
       "settings": {
         "foreground": "#000000"
