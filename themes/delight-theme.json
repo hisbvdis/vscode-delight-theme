@@ -49,7 +49,7 @@
         "entity.other.attribute-name",
         "entity.other.attribute-name.class.css",
         "meta.function-call entity.name.function.js",
-        "support.function"
+        "meta.function-call support.function"
       ],
       "settings": {
         "foreground": "#009900"
